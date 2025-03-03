@@ -1,0 +1,38 @@
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ExcelIT Tracker.exe.config
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ExcelIT Tracker.exe
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ExcelIT Tracker.pdb
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT_Tracker.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.exe
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.pdb
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT_Tracker.Main.resources
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ClosedXML.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\RBush.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ClosedXML.pdb
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ClosedXML.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\RBush.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT Tracker.exe.config
+C:\Users\ADMIN\source\repos\ExcelIT Tracker\obj\Debug\ExcelIT .BF7AA5CB.Up2Date

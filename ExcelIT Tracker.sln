@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelIT Tracker", "ExcelIT Tracker.csproj", "{CD6ED33C-9455-4D67-83EB-7E5A66E8572A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6ED33C-9455-4D67-83EB-7E5A66E8572A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6ED33C-9455-4D67-83EB-7E5A66E8572A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6ED33C-9455-4D67-83EB-7E5A66E8572A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6ED33C-9455-4D67-83EB-7E5A66E8572A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AAE849-3C53-40F8-B4FD-3CE8E7703BA9}
+	EndGlobalSection
+EndGlobal
