@@ -1,5 +1,5 @@
 ![Ekran görüntüsü 2025-03-03 175545](https://github.com/user-attachments/assets/7bdb1003-153a-4299-a341-64920d830d9f)
-# ExcelIT Tracker
+# ExcelIT Tracker V0.1 Beta
 
 **ExcelIT Tracker**, kurumsal firmalarda bakım yapılan bilgisayarları daha kolay bir şekilde Excel tablosuna dönüştürmek için geliştirilmiş bir yazılımdır. Bu araç, bilgisayar bakım süreçlerini daha düzenli ve takip edilebilir hale getirmek için tasarlanmıştır.
 
